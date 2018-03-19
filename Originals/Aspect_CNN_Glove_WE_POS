@@ -1,0 +1,12 @@
+Processing text dataset
+Generated list of sentences..
+Indexing word vectors.
+Found 400000 word vectors.
+Found 5250 unique tokens.
+Shape of data tensor: (3044, 69)
+(3044, 69)
+(3044, 69)
+Preparing embedding matrix.
+Embedding Layer set..
+Generated word Embeddings..
+Shape of Embedding_output (3044, 69, 300)
